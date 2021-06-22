@@ -15,7 +15,7 @@ static const Block blocks[] = {
   
   {"",       "~/.local/bin/mem",          40,                  0},
 
-  {"",       "~/.local/bin/dte",          10,                  0},
+  {"",       "~/.local/bin/dte",          1,                  0},
 };
 
 //sets delimeter between status commands. NULL character ('\0') means no delimeter.
